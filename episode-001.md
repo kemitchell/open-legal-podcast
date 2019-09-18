@@ -24,3 +24,12 @@ Thanks: Srivats P.
 - open code, proprietary binaries
 - standard licenses?
 - expense, rather than donation or marketing
+
+### Neural Networks
+
+Thanks: Io Mintz
+
+- licensing
+- Creative Commons?
+- inventions
+- copyrighted content
