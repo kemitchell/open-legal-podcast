@@ -33,3 +33,9 @@ Thanks: Io Mintz
 - Creative Commons?
 - inventions
 - copyrighted content
+
+### Distributed Social Networks
+
+Thanks: Christian Bundy
+
+- implied licenses for published content?
