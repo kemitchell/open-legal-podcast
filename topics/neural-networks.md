@@ -6,3 +6,4 @@ Thanks: Io Mintz
 - Creative Commons?
 - inventions
 - copyrighted content
+- _Authors Guild v. Google_
